@@ -1,0 +1,114 @@
+= The Twist Labs (Remastered) =
+
+Here you will find hints and solutions for each room. Attention: Only read if you can't get any further!
+
+-------------------------------
+                 _ _           
+                (_) |          
+ ___ _ __   ___  _| | ___ _ __ 
+/ __| '_ \ / _ \| | |/ _ \ '__|
+\__ \ |_) | (_) | | |  __/ |   
+|___/ .__/ \___/|_|_|\___|_|   
+    | |                        
+    |_|                        
+-------------------------------
+
+Room 1: "Your first task"
+A player jumps and fetches redstone and sticks. The other player gets through doors with the redstone torches. The two levers at the end must be distributed to both players.
+
+Room 2: "Lava lake"
+A player presses the buttons to create the path in the correct order. The other one jumps up and opens the exit.
+
+Room 3: "Well, where are they?"
+The chests with levers are hidden in the hill and on wooden bars to open a bonus room and then the exit.
+
+Room 4: "Red Light, Green Light"
+Pressing the buttons simultaneously opens a window in front of a lever. A player must come to the end while green light without jumping and falling into lava. The other player helps by closing the lava drain.
+
+Room 5: "Fast in circles"
+Find the correct code inside the aquarium and adjust the arrows accordingly. A part of the code is in the minecart with chest, open it by clicking on the minecart (not the chest). The path to the bottom opens. There all pressure plates must be activated once.
+Code: A: 4, B: 1, C: 2, D: 3
+
+Room 6: "Carpet"
+As soon as the complete carpet is mined, a pressure plate is created in front of the exit.
+
+Room 7: "Hopper challenge"
+When pushing the button, one torch each is send through the hopper and the player must be faster than it and then catch it. The second button will bring out an platform. Both torches open the exit.
+
+Room 8: "Crafting puzzles"
+Notes on the wall give the crafting goal. The recipe book can be used. The second player must distract the zombies.
+Items: Sticky Piston, Carrot on a Stick, Daylight Sensor, Rabbit Shew, Enchantment Table
+
+Room 9: "Out of service"
+One lever per elevator side must be set and activated. One of the players must then swim through the toilet.
+
+Room 10: "Drive into the unknown"
+Jump, place a minecart, start and enjoy a roller coaster ride.
+
+Room 11: "Laboratory"
+Under the water table in the middle of the laboratory is wool, which hides access to a canal. There are two redstone torches for bonus room and exit. Night vision and underwater breathing potions can be brewed to aid.
+
+Room 12: "Cacti are awesome"
+Placing and pressing five buttons opens the exit. Redstone lamps in the ceiling indicate how many buttons have been pressed. The target blocks are also hidden in the wall next to the entrance or below next to the cacti.
+
+Room 13: "Questions, questions"
+Six questions must be answered correctly by the pressure plate. If the answer is wrong, it starts all over again.
+Answers: 1: B, 2: C, 3: B, 4: A, 5: A, 6: B
+
+Room 14: "Grab it!"
+With the help of a fishing rod the minecart can be pulled through a route. There are 5 buttons on the side to control the route at the right moment.
+
+Room 15: "Concentration is your friend"
+By pressing the buttons at the same time, a time runs down in which both players have to manage the balance parkour.
+
+Room 16: "Many doors"
+Find your way through 25 small chambers, placing suitable triggers. Sometimes doors have to be entered several times. Right in the middle: Write the code on a piece of paper and throw it into the hopper.
+Code: 5921
+
+Room 17: "Lead and be led."
+One player sees a green path and has to announce it to the other player. In the chests there are levers to open the exit door. The whole thing now vice versa.
+
+Room 18: "Diving"
+Eight questions are to be answered by turning the arrows. Crafting a leather helmet and throw it into a hopper to get underwater breathing. There are two watergates, on the left and on the right to swim out. They will open when you stand in front of them.
+Answers: Floor: Stone, Drawer: Safety instructions, B: 6, A: 2, Height: 18, Name: Diving, Submarines: 1, Giant shells: 3
+
+Room 19: "Speed, Speed, Speed"
+The parkour has to be completed in the given time, this is what the lights are for. Both players must stand together on the pressure plates, so that the door opens.
+
+Room 20: "Jump the path"
+By pressing the button the correct way is indicated. The players have to master two paths correctly and place a lever at the end.
+
+Room 21: "Open space office"
+The villagers can sell levers to open exits. The elevator has three floors.
+
+Room 22: "Jump, Jump"
+Remove water with the lever. One player must stand on the pressure plate so that the other can push the buttons in the order 1-7. If the time limit has expired, the lamps go out again and a new attempt is needed.
+
+Room 23: "Don't get lost"
+Find the right way to the end of the labyrinth. Carpet can be placed to help.
+
+Room 24: "Together with each other"
+Activate the pressure plates together one after the other. One player opens the door for the other by pressing a button. If one player cannot do this, both players have to start from the beginning.
+
+Room 25: "Minecarts"
+The minecarts must be pushed onto the markings. In the second and third round the markings have to be remembered and moved in the first part of the room. The minecarts can be broken and placed to speed it up.
+
+Room 26: "Look at the other one"
+The players open each other's wool walls by pressing the respective color. The circle at the beginning must be passed through twice. Both must turn the levers in the middle.
+
+Room 27: "Take them home"
+Take the pigs with carrots to the stables. A specific pattern must be found.
+Order: 3-5-1-8-2-6-7-4 (Entry 1-4 (right to left), Exit: 4-8 (left to right))
+
+Room 28: "The dark king"
+Craft some bows and with the arrows shoot all 14 Redstone torches down. Lever for exit lands in the inventory of a player.
+
+Room 29: "Attention attention"
+Craft arrows and bows. Shoot 4 buttons hidden in the upper part of the room. Run through the fire to the exit.
+
+Room 30: "Feel the sand rain"
+Simultaneously stand on the pressure plates and enjoy the final sequence.
+
+
+Have fun and thank you for playing :)
+warco311, christina_12 and MaxLoewe

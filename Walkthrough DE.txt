@@ -1,0 +1,114 @@
+= The Twist Labs (Remastered) =
+
+Hier findet ihr Hinweise und Lösungen für jede Kammer. Achtung: Nur lesen wenn ihr nicht weiterkommt!
+
+-------------------------------
+                 _ _           
+                (_) |          
+ ___ _ __   ___  _| | ___ _ __ 
+/ __| '_ \ / _ \| | |/ _ \ '__|
+\__ \ |_) | (_) | | |  __/ |   
+|___/ .__/ \___/|_|_|\___|_|   
+    | |                        
+    |_|                        
+-------------------------------
+
+Kammer 1: "Eure erste Aufgabe"
+Ein Spieler springt und holt Redstone und Sticks. Gecraftet zu Redstone-Fackeln kommt der andere Spieler weiter. Die beiden Hebel am Ende müssen an beide Spieler verteilt werden.
+
+Kammer 2: "Lavasee"
+Ein Spieler drückt die Knöpfe um den Weg in der richtigen Reihenfolge zu erstellen. Der andere springt hoch und öffnet den Ausgang.
+
+Kammer 3: "Wo sind sie denn?"
+Die Truhen mit Hebel sind im Hügel und auf Holzbalken verstecken und öffnen einen Bonusraum und dann den Ausgang.
+
+Kammer 4: "Red Light, Green Light"
+Das gemeinsame Drücken der Knöpfe öffnet ein Fenster vor einem Hebel. Ein Spieler muss bei grünen Licht ohne Springen und in Lava zu fallen zum Ende kommen. Der andere Spieler unterstützt mit dem Verschließen des Lavakanals.
+
+Kammer 5: "Schnell im Kreis"
+Richtigen Code innerhalb des Aquariums finden und die Pfeile entsprechend eintragen. Ein Codeteil befindet sich in der Güterlore, diese durch Klick auf die Lore (nicht Truhe) öffnen. Weg nach unten öffnet sich. Dort müssen alle Druckplatten einmal aktiviert werden.
+Code: A: 4, B: 1, C: 2, D: 3
+
+Kammer 6: "Teppich"
+Sobald der komplette Teppich abgebaut ist, wird eine Druckplatte vor dem Ausgang erzeugt.
+
+Kammer 7: "Trichter-Duell"
+Auf Knopfdruck wird je eine Fackel durch Trichter geleitet und der Spieler muss schneller als diese unten sein und diese dann auffangen. Der zweite Knopf fährt dazu eine Hilfsplattform hervor. Beide Fackeln öffnen den Ausgang.
+
+Kammer 8: "Crafting Rätsel"
+Hinweise an der Wand ergeben das Crafting-Ziel. Es kann das Rezeptebuch benutzt werden. Der zweite Spieler musst die Zombies ablenken.
+Items: Klebriger Kolben, Karottenrute, Tageslichtsensor, Kaninchen-Ragout, Zaubertisch
+
+Kammer 9: "Außer Betrieb"
+Je ein Hebel pro Fahrstuhlseite muss gesetzt und aktiviert werden. Einer der Spieler muss danach durch die Toilette schwimmen.
+
+Kammer 10: "Fahrt ins Unbekannte"
+Springen, Lore platzieren, starten und Achterbahnfahrt geniesen.
+
+Kammer 11: "Laboratorium"
+Unter dem Wassertisch in der Mitte des Labors ist Wolle, der den Zugang zu einen Kanal versteckt. Dort sind zwei Redstone-Fackeln für Bonusraum und Ausgang. Es können Nachtsicht- und Unterwasseratmungstränke zu Hilfe gebraut werden.
+
+Kammer 12: "Kakteen sind super"
+Das Platzieren und Drücken von fünf Knöpfen öffnet den Ausgang. Redstonelampen in der Decke zeigen an, wie viele Knöpfe gedrückt wurden. Die Zielblöcke sind auch in der Wand neben den Eingang oder unten neben den Kakteen versteckt.
+
+Kammer 13: "Fragen über Fragen"
+Sechs Fragen müssen durch die Auslösung der Druckplatte richtig beantworten werden. Bei einer falschen Antwort geht's von vorne los.
+Antworten: 1: B, 2: C, 3: B, 4: A, 5: A, 6: B
+
+Kammer 14: "Holt sie euch"
+Mit Hilfe einer Angel kann die Lore durch eine Strecke gezogen werden. An der Seite sind 5 Knöpfe angebracht, mit diesen wird die Strecke im richtigen Moment gesteuert.
+
+Kammer 15: "Konzentration ist euer Freund"
+Durch das gleichzeitige Drücken der Knöpfe läuft eine Zeit herunter in der beide Spieler den Balance-Parkour schaffen müssen.
+
+Kammer 16: "Viele Türen"
+Weg durch 25 kleine Kammern finden, dabei passende Auslöser platzieren. Manchmal müssen Türen auch mehrfach betreten werden. Mittendrin: Code auf ein Papier schreiben und in den Trichter werfen.
+Code: 5921
+
+Kammer 17: "Führen und geführt werden"
+Der eine Spieler sieht einen grünen Weg und muss diesen dem anderen Spieler ansagen. In den Truhen finden sich Hebel um die Ausgangstür zu öffnen. Das ganze nun auch umgekehrt.
+
+Kammer 18: "Tauchen"
+Acht Fragen sind zu beantworten durch Drehen der Pfeile. Ein Helm aus Leder craften und in Trichter werfen, um Unterwasseratmung zu bekommen. Es gibt links und rechts je eine Schleuse zum hinausschwimmen. Sie öffnen sich wenn man davor steht.
+Antworten: Boden: Stein, Schublade: Sicherheitshinweise, B: 6, A: 2, Höhe: 18, Name: Tauchen, U-Boote: 1, Riesenmuscheln: 3
+
+Kammer 19: "Speed, Speed, Speed"
+Der Parkour muss in der vorgegeben Zeit geschafft werden, dazu dienen die Lichter. Beide Spieler müssen gemeinsam auf den Druckplatten stehen, damit die Tür sich öffnet.
+
+Kammer 20: "Spring den Weg"
+Durch Drücken des Knopfes wird der richtige Weg angezeigt. Die Spieler müssen jeweils zwei Wege richtig bewältigen, sowie am Ende einen Hebel platzieren.
+
+Kammer 21: "Großraumbüro"
+Von den Dorfbewohnern können Hebel erhandelt werden um Ausgänge zu öffnen. Der Fahrstuhl führt in drei Etagen.
+
+Kammer 22: "Hüpf, Hüpf"
+Wasser entfernen durch Hebel. Ein Spieler muss auf der Druckplatte stehen damit der andere die Knöpfe in der Reihenfolge 1-7 drücken kann. Ist das Zeitlimit abgelaufen, gehen die Lampen wieder aus und es benötigt einen neuen Versuch.
+
+Kammer 23: "Verlauft euch nicht"
+Den richtigen Weg zum Ende des Labyrinths finden. Teppich kann zur Hilfe platziert werden.
+
+Kammer 24: "Gemeinsam miteinander"
+Nacheinander gemeinsam die Druckplatten aktivieren. Ein Spieler öffnet dem anderen je per Knopf die Tür zum Durchspringen. Schafft das einer nicht, müssen beide von vorne anfangen.
+
+Kammer 25: "Minecarts"
+Die Loren müssen auf die Markierungen geschoben werden. In der zweiten und dritten Runde müssen die Markierung gemerkt werden und im ersten Teilraum verschoben werden. Die Minecarts können abgebaut und neuplaziert werden, um es zu beschleunigen.
+
+Kammer 26: "Blicke auf den Anderen"
+Die Spieler öffnen sich gegenseitig die Wollwände durch Drücken der jeweiligen Farbe. Der Kreis am Anfang muss zweifach durchlaufen werden. Beide müssen mittendrin die Hebel umlegen.
+
+Kammer 27: "Bring sie heim"
+Die Schweine mit Karotten in die Ställe führen. Dabei ist ein bestimmtes Muster zu finden.
+Reihenfolge: 3-5-1-8-2-6-7-4 (Eingangsseite 1-4 (rechts nach links), Ausgangsseite: 4-8 (links nach rechts))
+
+Kammer 28: "Der dunkle König"
+Bögen craften und mit den Pfeilen alle 14 Redstone-Fackeln abschießen. Hebel für Ausgang landet im Inventar von einem Spieler.
+
+Kammer 29: "Achtung, Achtung"
+Pfeile und Bögen craften und 4 Knöpfe versteckt im oberen Teil der Kammer abschießen. Durchs Feuer laufen zum Ausgang.
+
+Kammer 30: "Fühlt den Sandregen"
+Gleichzeitig auf die Druckplatten stellen und die Endsequenz geniesen.
+
+
+Viel Spaß und vielen Dank fürs Spielen :)
+wünschen warco311, christina_12 und MaxLoewe

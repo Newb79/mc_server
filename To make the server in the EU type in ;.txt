@@ -1,0 +1,2 @@
+To make the server in the EU type in ;
+ngrok tcp 25565 --region eu
